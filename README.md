@@ -35,6 +35,7 @@ Figure 1:
 
 The Output From Data Preparation and Cleaning
 
+![Figure 1](https://github.com/user-attachments/assets/1c65af8a-18df-47dd-a852-335ad5c5edb2)
 
 As seen from Figure 1, none of the critical columns have any missing values, and therefore, no records would be deleted based on missing data, 
 and no data needed to be credited. The cleaned data preview shows daily call centre activities, call volumes, call abandon rate, and call service 
@@ -58,6 +59,7 @@ Figure 2:
 
 The Descriptive Analysis Outcome.
 
+![Figure 2](https://github.com/user-attachments/assets/8ae72d36-91b8-40c9-8207-681d86eaaaa9), ![Figure 2b](https://github.com/user-attachments/assets/d0b82ac4-d496-4a7b-bd80-331d786e3833)
 
 The output features an analysis of the leading indicators of the 311 Contact Centre for both the years 2023 and 2024. In 2023, it addressed 94. 
 27% of the 356,598 calls were offered in 2024, and the average daily abandonment rate increased from 4.62% in 2023 to 6.03% in 2024, reflecting a 
